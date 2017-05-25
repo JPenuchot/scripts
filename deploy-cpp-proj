@@ -1,0 +1,6 @@
+#!/bin/bash
+wget http://j.penuch.it/prog/cpp/deploy
+chmod +x deploy
+./deploy
+rm deploy
+subl .

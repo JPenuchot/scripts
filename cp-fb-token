@@ -1,0 +1,1 @@
+cat ~/usr/devel/fb.token | xclip -selection clipboard

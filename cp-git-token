@@ -1,0 +1,1 @@
+cat ~/usr/devel/git.token | xclip -selection clipboard
