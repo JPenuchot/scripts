@@ -1,6 +1,5 @@
 #!/bin/bash
-wget http://j.penuch.it/prog/cpp/deploy
-chmod +x deploy
-./deploy
-rm deploy
+wget http://www.penuch.it/uploads/project.tgz
+tar xf project.tgz
+rm project.tgz
 subl .
